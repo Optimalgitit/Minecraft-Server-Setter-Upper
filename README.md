@@ -3,3 +3,7 @@ Sets up your minecraft server - Automatically.
 
 Please note: You will need to download the Minecraft jars.
 My video explains how to set everything up - https://www.youtube.com/watch?v=UtSwlrQbiQc&feature=youtu.be
+
+This is the fully-auto branch. You just have to execute the following command in your bash terminal and it will do the job:
+`wget https://github.com/Optimalgitit/Minecraft-Server-Setter-Upper/blob/fully-auto/setup-server.sh && https://launcher.mojang.com/v1/objects/3dc3d84a581f14691199cf6831b71ed1296a9fdf/server.jar && ./setup-server.sh && rm setup-server.sh`
+And that's it. You just set up a fully working vanilla Minecraft 1.14 server using just 1 command. HOW COOL IS THAT!
