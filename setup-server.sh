@@ -2,7 +2,7 @@
 
 echo "Welcome to server setup!"
 echo "By continuing, you agree to the EULA."
-wget https://raw.githubusercontent.com/Optimalgitit/Minecraft-Server-Setter-Upper/fully-auto/start-server.sh
+wget https://raw.githubusercontent.com/Optimalgitit/Minecraft-Server-Setter-Upper/master/start-server.sh
 
 java -Xmx1024M -Xms1024M -jar server.jar nogui
 
