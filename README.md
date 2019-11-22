@@ -10,5 +10,5 @@ Before you post an issue remember to,
  - Use images when possible or show video proof also when possible.
  - Do not contact the developers directly about the problem, if anything you'll have a less chance of getting it solved!
  
- # Things To do...
-  * ✗ | Options for using Bungee, Paper Spigot or Spigot
+# Things To do...
+* [ ] Options for using Bungee, Paper Spigot or Spigot
