@@ -3,9 +3,11 @@
 :start
 cls
 set name=Minecraft Server Auto-Setup
+set version=v2.0-ALPHA
 echo -----------------------------
 echo Thank you for using our tool,
 echo %name%.
+echo    VERSION: %version%.
 echo -----------------------------
 goto :eula
 

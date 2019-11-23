@@ -16,7 +16,7 @@ Which version would you like to install?
   - 1.8.8
 -------------------------
 "
-read serverVersion
+read -p "> " serverVersion
 echo "Installing..."
 echo "Note: You will need to have wget installed."
 if [[ serverVersion == "1.14.4" ]]
