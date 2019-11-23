@@ -1,5 +1,3 @@
-REM https://account.mojang.com/documents/minecraft_eula
-
 @echo off
 
 :start
