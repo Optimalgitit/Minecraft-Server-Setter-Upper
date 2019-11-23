@@ -12,3 +12,4 @@ Before you post an issue remember to,
  
 # Things To do...
 * [ ] Options for using Bungee, Paper Spigot or Spigot
+* [x] Add Auto-EULA Agree
