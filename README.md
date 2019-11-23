@@ -11,5 +11,8 @@ Before you post an issue remember to,
  - Do not contact the developers directly about the problem, if anything you'll have a less chance of getting it solved!
  
 # Things To do...
-* [ ] Options for using Bungee, Paper Spigot or Spigot
-* [x] Add Auto-EULA Agree
+* [ ] Options for using Bungee, Paper Spigot or Spigot.
+* [ ] Add versions: 1.7.10, 1.9 and more.
+* [ ] Support for adding Plugins automatically.
+* [ ] Advanced Online Web Panel - for setup. (unlikely to be implemented)
+* [x] Add Auto-EULA Agree.
