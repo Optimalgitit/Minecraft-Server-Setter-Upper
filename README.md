@@ -1,3 +1,5 @@
+# NOTE: This branch has been archived and all work for it has stopped. Please see the revival branch, which is a revival of the project. This branch will only be kept for historical purposes.
+
 # Minecraft Server Automatic Setup
 You can now easily create your own Minecraft server for you and your friends to play on!
 If you don't know what you're doing go to this video: **INSERT VIDEO(S) HERE**
